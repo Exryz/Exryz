@@ -88,12 +88,11 @@ B.S. Computer Science graduate from National University Laguna, former AI/ML Int
 ## GitHub Metrics
 
 <p align="center">
-  <img src="metrics.base.svg" alt="GitHub Base Metrics" />
-  <img src="metrics.repositories.svg" alt="Featured Repositories Metrics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Exryz&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Exryz GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exryz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,dockerfile,jinja" alt="Exryz Most Used Languages" />
 </p>
 <p align="center">
-  <img src="metrics.languages.svg" alt="Most Used Languages Metrics" />
-  <img src="metrics.isocalendar.svg" alt="GitHub Contribution Isocalendar" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Exryz&theme=tokyonight&hide_border=true" alt="Exryz GitHub Streak" />
 </p>
 
 ---
