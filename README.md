@@ -1,12 +1,10 @@
-# Hi, I'm Paul Andrei Datinguinoo
+# Hi, I'm Exryz
 
 **AI/ML Engineer building grounded, verifiable LLM systems: RAG agents, document AI, and evaluation pipelines.**
 
 B.S. Computer Science graduate from National University Laguna, former AI/ML Intern at CGI Philippines, and former AI Tech Lead for Microsoft Student Community – NU Laguna. I focus on turning LLM and computer vision workflows into reliable, measurable software with deterministic verification, structured schemas, and production observability.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Andrei%20Datinguinoo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-andrei-datinguinoo-05b779317/)
-[![Email](https://img.shields.io/badge/Email-datinguinoopaulg%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:datinguinoopaulg@gmail.com)
-![Location](https://img.shields.io/badge/Location-Batangas%2C%20PH-1E293B?style=flat)
+[![GitHub](https://img.shields.io/badge/GitHub-Exryz-181717?style=flat&logo=github&logoColor=white)](https://github.com/Exryz)
 [![helpdesk-agent](https://img.shields.io/badge/helpdesk--agent-RAG%20%2B%20MCP-0F766E?style=flat&logo=github&logoColor=white)](https://github.com/Exryz/helpdesk-agent)
 [![docextract](https://img.shields.io/badge/docextract-Document%20AI-1D4ED8?style=flat&logo=github&logoColor=white)](https://github.com/Exryz/docextract)
 
@@ -100,4 +98,4 @@ B.S. Computer Science graduate from National University Laguna, former AI/ML Int
 
 ---
 
-*Open to AI/ML Engineer, Applied AI, and Backend AI opportunities — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/paul-andrei-datinguinoo-05b779317/) or [email](mailto:datinguinoopaulg@gmail.com).*
+*Open to AI/ML Engineer, Applied AI, and Backend AI opportunities.*
