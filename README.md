@@ -1,4 +1,4 @@
-# Hi, I'm Exryz
+# Hi, I'm Exeryze
 
 **AI/ML Engineer building grounded, verifiable LLM systems: RAG agents, document AI, and evaluation pipelines.**
 
