@@ -41,32 +41,6 @@ B.S. Computer Science graduate from National University Laguna, former AI/ML Int
 
 ---
 
-## Experience
-
-**AI/ML Intern — CGI Philippines** *(Dec 2025 – Jul 2026)*
-- Built an internal IT support chatbot powered by Azure OpenAI (GPT-4o mini) and RAG to support ticketing and troubleshooting workflows.
-- Implemented Playwright web-scraping automation scripts to streamline ticket data retrieval and status tracking.
-- Authored technical documentation and structured knowledge base articles used by internal engineering teams and the chatbot retrieval pipeline.
-
-**AI Tech Lead — Microsoft Student Community – NU Laguna** *(Jun 2025 – Jul 2026)*
-- Led the planning and delivery of AI and machine learning workshops, bootcamps, and hands-on technical training sessions.
-- Designed structured learning roadmaps and collaborated with guest speakers, mentors, and partner organizations.
-- Mentored student members on applied AI/ML projects and guided continuous technical upskilling.
-
----
-
-## Education
-
-**B.S. Computer Science — National University Laguna** *(2023 – 2026)*
-- **Thesis:** Real-time exercise form assessment (deadlift and power clean) using MediaPipe 33-landmark pose estimation with a hybrid CNN-LSTM architecture and MobileNetV2 transfer learning, delivering 0–100% form scoring and corrective feedback.
-
-**Continuous Learning & Coursework**
-- **Cloud & DevOps:** Enterprise ML on AWS/GCP/Azure, AWS Monitoring & Lambdas (2026)
-- **AI & Machine Learning:** Deep Learning, Reinforcement Learning, NLP with Python, Enterprise ML Pipelines (2026)
-- **Data Engineering & Agile:** Streaming Data Architectures (Spark), Python Data Visualization (2026); Agile Development Bootcamp (2025)
-
----
-
 ## Tech Stack
 
 <p>
