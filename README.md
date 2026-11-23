@@ -88,13 +88,9 @@ B.S. Computer Science graduate from National University Laguna, former AI/ML Int
 ## GitHub Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Exryz&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Exryz GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exryz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,dockerfile,jinja" alt="Exryz Most Used Languages" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Exryz&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&card_width=420" alt="Exryz GitHub Stats" />
+  <img width="420" src="https://streak-stats.demolab.com/?user=Exryz&theme=tokyonight&hide_border=true&card_width=420" alt="Exryz GitHub Streak" />
 </p>
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Exryz&theme=tokyonight&hide_border=true" alt="Exryz GitHub Streak" />
+  <img width="844" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exryz&layout=compact&theme=tokyonight&hide_border=true&card_width=844&langs_count=6&hide=html,css,dockerfile,jinja,batchfile" alt="Exryz Most Used Languages" />
 </p>
-
----
-
-*Open to AI/ML Engineer, Applied AI, and Backend AI opportunities.*
