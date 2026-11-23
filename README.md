@@ -7,6 +7,8 @@ B.S. Computer Science graduate from National University Laguna, former AI/ML Int
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Andrei%20Datinguinoo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-andrei-datinguinoo-05b779317/)
 [![Email](https://img.shields.io/badge/Email-datinguinoopaulg%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:datinguinoopaulg@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Batangas%2C%20PH-1E293B?style=flat)
+[![helpdesk-agent](https://img.shields.io/badge/helpdesk--agent-RAG%20%2B%20MCP-0F766E?style=flat&logo=github&logoColor=white)](https://github.com/Exryz/helpdesk-agent)
+[![docextract](https://img.shields.io/badge/docextract-Document%20AI-1D4ED8?style=flat&logo=github&logoColor=white)](https://github.com/Exryz/docextract)
 
 ---
 
@@ -59,6 +61,11 @@ B.S. Computer Science graduate from National University Laguna, former AI/ML Int
 
 **B.S. Computer Science — National University Laguna** *(2023 – 2026)*
 - **Thesis:** Real-time exercise form assessment (deadlift and power clean) using MediaPipe 33-landmark pose estimation with a hybrid CNN-LSTM architecture and MobileNetV2 transfer learning, delivering 0–100% form scoring and corrective feedback.
+
+**Continuous Learning & Coursework**
+- **Cloud & DevOps:** Enterprise ML on AWS/GCP/Azure, AWS Monitoring & Lambdas (2026)
+- **AI & Machine Learning:** Deep Learning, Reinforcement Learning, NLP with Python, Enterprise ML Pipelines (2026)
+- **Data Engineering & Agile:** Streaming Data Architectures (Spark), Python Data Visualization (2026); Agile Development Bootcamp (2025)
 
 ---
 
